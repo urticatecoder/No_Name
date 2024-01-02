@@ -438,15 +438,18 @@
       "minecraft:pillager": "2022-11-23 18:26:17 +1100",
       "minecraft:blaze": "2022-12-06 07:10:11 +1100",
       "minecraft:skeleton": "2022-11-22 18:01:53 +1100",
+      "minecraft:witch": "2023-12-03 19:17:21 +1100",
+      "minecraft:wither_skeleton": "2022-12-06 07:07:09 +1100",
+      "minecraft:ravager": "2023-12-03 19:17:57 +1100",
+      "minecraft:ghast": "2022-12-11 10:44:50 +1100",
+      "minecraft:hoglin": "2022-12-09 15:51:34 +1100",
+      "minecraft:vindicator": "2023-12-03 19:14:27 +1100",
       "minecraft:enderman": "2022-12-19 07:00:41 +1100",
       "minecraft:spider": "2022-11-22 18:14:08 +1100",
-      "minecraft:wither_skeleton": "2022-12-06 07:07:09 +1100",
       "minecraft:zombie": "2022-11-22 12:54:03 +1100",
       "minecraft:creeper": "2022-11-22 18:04:08 +1100",
       "minecraft:drowned": "2022-12-06 06:12:21 +1100",
-      "minecraft:zombie_villager": "2023-08-04 12:21:09 +1000",
-      "minecraft:ghast": "2022-12-11 10:44:50 +1100",
-      "minecraft:hoglin": "2022-12-09 15:51:34 +1100"
+      "minecraft:zombie_villager": "2023-08-04 12:21:09 +1000"
     },
     "done": false
   },
@@ -2968,6 +2971,90 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2023-06-30 16:37:23 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2023-11-30 16:56:50 +1100"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2023-11-30 19:51:11 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2023-12-01 22:20:05 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2023-12-02 12:07:39 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2023-12-02 12:07:39 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2023-12-02 16:53:33 +1100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2023-12-02 16:53:33 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2023-12-02 17:08:38 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2023-12-02 17:08:38 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2023-12-03 17:21:18 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2023-12-03 17:21:18 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2023-12-03 17:21:18 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2023-12-03 21:16:49 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2023-12-03 21:16:49 +1100"
     },
     "done": true
   },
